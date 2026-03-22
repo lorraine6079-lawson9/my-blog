@@ -9,3 +9,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed security headers configuration
 - Removed unused variable declarations
 - Wrote notes on upcoming feature design
+
+## 2026-03-23
+- Drafted initial implementation plan for v2
+- Noted known limitation in docs
